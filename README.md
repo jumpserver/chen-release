@@ -23,4 +23,6 @@ Chen 使用 Java 实现，名字来源于 Dota 英雄 [陈](https://www.dota2.co
 - [x] PostgreSQL (X-Pack)
 - [x] SQL Server (X-Pack)
 - [x] Oracle (X-Pack)
+- [x] DB2 (X-Pack)
+ 
 
